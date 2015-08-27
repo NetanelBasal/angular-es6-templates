@@ -18,8 +18,6 @@ swig.setFilter('snakeToCamelCase', function(input, idx) {
 
 
 function generateFiles(answers) {
-  console.log(answers)
-
   var whatToGenerate = answers.generate,
     dependencies = answers.dependencies ? answers.dependencies.split(' ') : [];
   name = answers.name;

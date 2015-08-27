@@ -7,4 +7,4 @@ class {{name | camelCaseSnake}}Controller{
 
 }
 
-export default {{name | camelCaseSnake}}Controller;
+export default {{name | camelCaseSnake}}Controller
