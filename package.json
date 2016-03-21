@@ -1,6 +1,6 @@
 {
   "name": "angular-es6-templates",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "angular es6 template generator",
   "main": "nbAngular.js",
   "scripts": {
